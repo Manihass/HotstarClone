@@ -40,7 +40,7 @@ Once the application is running, users can perform the following actions:
 - JavaScript: Programming language used to add interactivity and dynamic behavior to web pages.
 
 ## Credits
-This project was created by [Your Name]. It is intended for educational purposes and as a demonstration of web development skills. Hotstar is a registered trademark of its respective owners and is not affiliated with this project.
+This project was created by Manihass CH. It is intended for educational purposes and as a demonstration of web development skills. Hotstar is a registered trademark of its respective owners and is not affiliated with this project.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code for personal or commercial use.
