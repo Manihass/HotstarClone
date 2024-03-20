@@ -8,7 +8,7 @@ To run this project locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone 
+git clone https://github.com/Manihass/HotstarClone.git
 ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,3 @@ This project was created by [Your Name]. It is intended for educational purposes
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code for personal or commercial use.
 
-## Support
-For any questions or issues regarding this project, please contact [Your Email Address].
-
-Enjoy streaming with your Hotstar Clone! 🎬🍿
