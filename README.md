@@ -1,4 +1,4 @@
-**Hotstar Clone Read Me**
+**Hotstar-Clone **
 
 ## Introduction
 Welcome to the Hotstar Clone project! This project is a recreation of the popular streaming platform Hotstar using HTML, CSS, and JavaScript. With this clone, users can experience a similar interface and functionality to the original Hotstar platform.
